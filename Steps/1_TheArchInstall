@@ -1,0 +1,30 @@
+# Need Internet
+If you using an ethernet cable so you are ready to go. However in my case i use a WifiAdapter so need to conecect to the world of internt.
+##iw
+`iwctl station wlan0 connect <SSID>`
+ now we have our power the Internet. lets move on to the filesystem.
+
+---
+ # DiskConfigration
+ I have 2 HDDs one with 75GB and the other with 500GB for now i need to configer the 75GB as my system storage.
+ Parition struckers:
+ HDD_0 (GPT):
+    - 2GB /boot/efi (EFI,fat 32)
+    - 60 / (ROOT,ext4)
+    - 10 SWAP
+ HDD_1 (GPT):
+    - 500Gb /Vault (exFat)
+
+  Using `fdisk`.
+
+---
+
+ # Install the base of the system
+ A pacstrap its a tool to install a pkg working as specifice root dir.
+ - linux-ltc
+ - iw
+ - linux-firmware
+ - neovim
+ - htop
+ - pacman
+ - ...
