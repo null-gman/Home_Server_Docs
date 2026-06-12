@@ -16,10 +16,10 @@ To be simple and challenging journey for studing linux and getting expertise and
 # Rules 
 - Not to use external pkgs out from the pacman offical repos exept thoese i have built my self
 # Todos
-- [ x ] Install The OS
-- [ x ] Set A Staic IPv4 adress
-- [ x ] Install SSH server
-- [   ] Format and mount the storage HDD (500GB), to be the file server storage.
-- [   ] Install *Copyparty* and config it as it's fileserve and communication hub.
+- [x] Install The OS
+- [x] Set A Staic IPv4 adress
+- [x] Install SSH server
+- [ ] Format and mount the storage HDD (500GB), to be the file server storage.
+- [ ] Install *Copyparty* and config it as it's fileserve and communication hub.
 ---
 | linux-and-computer-enthusiast-journey
