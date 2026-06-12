@@ -21,10 +21,7 @@ If you using an ethernet cable so you are ready to go. However in my case i use 
 
  # Install the base of the system
  A pacstrap its a tool to install a pkg working as specifice root dir.
- - linux-ltc
- - iw
- - linux-firmware
- - neovim
- - htop
- - pacman
- - ...
+
+ `pacstrap -K /mnt bash linux linux-firmware iwd bash vim systemd gcc git make sudo pacman grub ...`
+
+---
