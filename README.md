@@ -19,7 +19,7 @@ To be simple and challenging journey for studing linux and getting expertise and
 - [x] Install The OS
 - [x] Set A Staic IPv4 adress
 - [x] Install SSH server
-- [ ] Format and mount the storage HDD (500GB), to be the file server storage.
+- [x] Format and mount the storage HDD (500GB), to be the file server storage.
 - [ ] Install *Copyparty* and config it as it's fileserve and communication hub.
 ---
 | linux-and-computer-enthusiast-journey
