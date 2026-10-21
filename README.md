@@ -22,6 +22,6 @@ To be simple and challenging journey for studing linux and getting expertise and
 - [x] Format and mount the storage HDD (500GB), to be the file server storage.
 - [x] Install *Copyparty* and config it as it's fileserve and communication hub.
 - [x] Install syncting to sync my devices as redundant backup
-- [ ] Make good gocs for my server  
+- [ ] Make good docs for my server  
 ---
 | linux-and-computer-enthusiast-journey
