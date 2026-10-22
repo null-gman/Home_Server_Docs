@@ -5,7 +5,7 @@
 - Architecture: x86-64
 - bootloader : grub
 - Shell: bash 5.3.15
-- Interface: TTy only
+- Interface: headless + TTy only
 - Remote Accese: ssh
 
 # Network Configrations
