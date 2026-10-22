@@ -31,7 +31,7 @@
 - systemctl: managing services
 - sudo & su: root/privilege escalation
 - htop & btop: monitoring recources
-- lshw, fastfetch: hardware specs
+- lshw, fastfetch, lsblk: hardware specs
 
 
 
