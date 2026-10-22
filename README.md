@@ -23,5 +23,7 @@ To be simple and challenging journey for studing linux and getting expertise and
 - [x] Install *Copyparty* and config it as it's fileserve and communication hub.
 - [x] Install syncting to sync my devices as redundant backup
 - [ ] Make good docs for my server  
+- [ ] i need firewall
+- [ ] local hosting vpn or proxy
 ---
 | linux-and-computer-enthusiast-journey
