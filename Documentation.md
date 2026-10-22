@@ -20,13 +20,12 @@
 - enp2s0:
   - Static IPv4: `192.168.1.254/24`
 
-
-
 # Listing Servers
 - CopyPart TCP:80
 - Syncthing TCP:9090
 - sshd TCP:22
-| Note: All systemd.services based.
+
+| Note: Custome systemd.services located in `/etc/systemd/system/`.
 
 # Managment Tools
 - systemctl: managing services
