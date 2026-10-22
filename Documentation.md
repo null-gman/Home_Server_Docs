@@ -60,4 +60,4 @@ sda     465.8G           disk
 
 ---
 # Notes About The Server
-| I user Arch BTW
+    I user Arch BTW
