@@ -1,15 +1,11 @@
-# Purpose
-Not User Logges,but the big Changes on the server, like install deamone
-
----
-
-# Logs
-- Install Arch linux with GRUB and systemd
-- Install NetworkManager
-- Connect to WIFI vi nmcli
-- Set a static ipv4 adress vi nmcli
-- install open-ssh and enable sshd
-- isnatll htop,less,grep,cowsay,fastfetch,net-tools,sudo
-- create user gman and add it to suders group
-- create gruop auser and add gman to it
-- mount /dev/sdb1 on /vault and give it full premition for the gruop auser
+# Event Logs | Not Every Thing Just Whats Matter
+- Install Arch linux with GRUB with systemd 
+- Config Disk (`/boot/efi` 2G Fat32, `/` 50G ext4, `/SharedDisk` 400G exFat)
+- Installed system managment tools and programes:
+  - NetworkManager
+  - open-ssh
+  - fastfetch
+  - And other Tool can find in `Packages.md` file.
+- Static IPv4 for `enp2s0` -> `192.168.1.254/24`
+- Create `copyparty.service`
+- Create `syncthing.service`
