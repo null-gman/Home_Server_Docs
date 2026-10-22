@@ -22,7 +22,7 @@
 
 # Listing Servers
 - CopyPart TCP:80
-- Syncthing TCP:9090
+- Syncthing TCP:`9090`, `9191`, `9292`
 - sshd TCP:22
 
 | Note: Custome systemd.services located in `/etc/systemd/system/`.
