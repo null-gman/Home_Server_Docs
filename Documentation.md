@@ -21,9 +21,9 @@
   - Static IPv4: `192.168.1.254/24`
 
 # Listing Servers
-- CopyPart TCP:80
+- CopyPart TCP:`80`
 - Syncthing TCP:`9090`, `9191`, `9292`
-- sshd TCP:22
+- sshd TCP:`22`
 
 | Note: Custome systemd.services located in `/etc/systemd/system/`.
 
