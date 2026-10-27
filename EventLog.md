@@ -1,7 +1,7 @@
 # Event Logs | Not Every Thing Just Whats Matter
 - Install Arch linux with GRUB with systemd 
 - Config Disk (`/boot/efi` 2G Fat32, `/` 50G ext4, `/SharedDisk` 400G exFat)
-- Installed system managment tools and programes:
+- Installed system management tools and programs:
   - NetworkManager
   - open-ssh
   - fastfetch
@@ -9,3 +9,6 @@
 - Static IPv4 for `enp2s0` -> `192.168.1.254/24`
 - Create `copyparty.service`
 - Create `syncthing.service`
+- Create a SSH ed25519 keys for github auth with passkey.
+- Config sshd to just accept keys in `authorized_keys` only no password and root login are not allowed.
+  - Add one key for my laptop.
