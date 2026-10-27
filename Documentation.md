@@ -44,7 +44,7 @@ sda     465.8G           disk
 ├─sda2  50G      ext4    part  /
 └─sda3  400G     exfat   part  /SharedDisk
 ```
-## Tools
+# Tools
 For tools and utilities check [Packages.md](/Packages.md)
 
 ---
