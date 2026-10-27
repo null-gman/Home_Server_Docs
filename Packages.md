@@ -1,0 +1,13 @@
+# Disk & File System
+- Disk Mointours:
+  - badblock
+  - hdparm
+  - smartctl
+- File System:
+  - tree
+  - rsync : cp but better
+- Disk Usage:
+  - duf
+  - du
+  - dust
+  - ncdu
