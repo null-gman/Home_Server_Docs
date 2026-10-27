@@ -1,14 +1,14 @@
 # Server Details
-- hostname: archlinux
-- Operating System: Arch Linux
-- Kernel: Linux 7.1.9-arch1-2
-- Architecture: x86-64
-- bootloader : grub
-- Shell: bash 5.3.15
-- Interface: headless + TTy only
-- Remote Accese: ssh
+- **hostname**: archlinux
+- **Operating System**: Arch Linux
+- **Kernel**: Linux 7.1.9-arch1-2
+- **Architecture**: x86-64
+- **bootloader** : grub
+- **Shell**: bash 5.3.15
+- **Interface**: headless + TTy only
+- **Remote Access**: ssh
 
-# Network Configrations
+# Network Configurations
 - Network Managers:
   - NetworkManager
   - ip
@@ -45,18 +45,7 @@ sda     465.8G           disk
 └─sda3  400G     exfat   part  /SharedDisk
 ```
 ## Tools
-- Disk Mointours:
-  - badblock
-  - hdparm
-  - smartctl
-- File System:
-  - tree
-  - rsync : cp but better
-- Disk Usage:
-  - duf
-  - du
-  - dust
-  - ncdu
+For tools and utilities check [Packages.md](/Packages.md)
 
 ---
 # Notes About The Server
