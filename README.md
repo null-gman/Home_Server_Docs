@@ -26,5 +26,6 @@ To be simple and challenging journey for studing linux and getting expertise and
 - [x] Make good docs for my server  
 - [ ] i need firewall
 - [ ] local hosting vpn or proxy
+- [ ] install [filex](https://filex.sh/)
 ---
 | linux-and-computer-enthusiast-journey
