@@ -26,6 +26,6 @@ To be simple and challenging journey for studing linux and getting expertise and
 - [x] Make good docs for my server  
 - [ ] i need firewall
 - [ ] local hosting vpn or proxy
-- [ ] install [filex](https://filex.sh/)
+- [ ] install [filex](https://filex.sh/) and uninstall copyparty.py ":("
 ---
 | linux-and-computer-enthusiast-journey
