@@ -76,3 +76,4 @@ For tools and utilities check [Packages.md](/Packages.md)
   - Hardware "HDD" related problem.
   - Still in diagnosing process.
 - Will try to fix the system TODAY.
+- SSH working again, no other services.
