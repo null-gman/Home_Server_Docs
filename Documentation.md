@@ -69,3 +69,10 @@ For tools and utilities check [Packages.md](/Packages.md)
 - Create a SSH ed25519 keys for github auth with passkey.
 - Config sshd to just accept keys in `authorized_keys` only no password and root login are not allowed.
   - Add one key for my laptop.
+- !!SYSTEM IS DOWN:
+  - Root files are corrupted on /sda2.
+  - Data is good and recovered.
+  - Bootloader Working fine.
+  - Hardware "HDD" related problem.
+  - Still in diagnosing process.
+- Will try to fix the system TODAY.
