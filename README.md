@@ -27,5 +27,17 @@ To be simple and challenging journey for studing linux and getting expertise and
 - [ ] i need firewall
 - [ ] local hosting vpn or proxy
 - [ ] install [filex](https://filex.sh/) and uninstall copyparty.py ":("
+> - Server DOWN#2.
+> - Every failure makes an engineer stronger. Every lesson makes them wiser.
+# Todo2
+- [x] Install The OS
+- [x] Set A Static IPv4 address and Disable IPv6
+- [x] Install **SSH** server
+- [ ] Create My User And Group
+- [ ]  i need **firewall** & **Reverse Proxy**
+- [ ] Install **Syncting** to sync my devices as syncing files and redundant backup
+- [ ] install Web-Based File Sharing local-host Services
+
+
 ---
 | linux-and-computer-enthusiast-journey
